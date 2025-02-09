@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/HomePage.dart';
 import 'package:flutter_application_1/ManageData/DrawerMenu.dart';
-import 'package:flutter_application_1/ManageMenuPage.dart';
-import 'package:flutter_application_1/MessagePage.dart';
-import 'package:flutter_application_1/ServicesPage.dart';
-import 'package:flutter_application_1/WelcomePage.dart';
+import 'package:flutter_application_1/ManageData/ManageMenuPage.dart';
+import 'package:flutter_application_1/Pages/HomePage.dart';
+import 'package:flutter_application_1/Pages/MessagePage.dart';
+import 'package:flutter_application_1/Pages/ServicesPage.dart';
+import 'package:flutter_application_1/Pages/WelcomePage.dart';
 
 class ManageHomePage extends StatefulWidget {
   const ManageHomePage({super.key});

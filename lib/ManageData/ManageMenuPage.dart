@@ -1,13 +1,12 @@
-import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
-import 'package:flutter_application_1/CategoryPage.dart';
-import 'package:flutter_application_1/CustomerPage.dart';
-import 'package:flutter_application_1/EmployeePage.dart';
-import 'package:flutter_application_1/ExchangePage.dart';
-import 'package:flutter_application_1/ProductPage.dart';
-import 'package:flutter_application_1/SupplierPage.dart';
-import 'package:flutter_application_1/unitPage.dart';
+import 'package:flutter_application_1/ManageData/CategoryPage.dart';
+import 'package:flutter_application_1/ManageData/CustomerPage.dart';
+import 'package:flutter_application_1/ManageData/EmployeePage.dart';
+import 'package:flutter_application_1/ManageData/ExchangePage.dart';
+import 'package:flutter_application_1/ManageData/ProductPage.dart';
+import 'package:flutter_application_1/ManageData/SupplierPage.dart';
+import 'package:flutter_application_1/ManageData/unitPage.dart';
 
 List items = [
   "ຂໍ້ມູນຫົວໜ່ວຍ",

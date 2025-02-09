@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/loginPage.dart';
+import 'package:flutter_application_1/Pages/loginPage.dart';
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
